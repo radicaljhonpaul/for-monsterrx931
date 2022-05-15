@@ -1,0 +1,44 @@
+.card{
+  border: 0px !important;
+  border-radius: 10px;
+   
+  background-color: #fff;
+}
+
+.stats{
+    background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.articles{
+  font-size:14px;
+  color: #0e0e0e;
+}
+.number1{
+  font-size:12px;
+  font-weight:300;
+}
+
+/* ----------------------------- EDIT MODAL ---------------------------------- */
+
+.form-control:focus{
+
+background-color: #25272a;
+box-shadow: none !important;
+color: #fff;
+border-color: #4f63e7;
+}
+
+.form-check-label{
+margin-top: 2px;
+font-size: 14px;
+}
+
+.no-border-radius{
+  border-radius: none !important;
+}
+
+
+.back:hover {
+  color: #dc3545;
+  cursor: pointer;
+}
